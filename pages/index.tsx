@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div>初めてAzure Static Web Appにホスティングします</div>
+        <div>変更確認</div>
       </main>
     </>
   )
